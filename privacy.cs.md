@@ -32,7 +32,7 @@ nám ani nikomu jinému.
   nabídku sdílení. Co tam pak vložíte nebo pošlete, je věc mezi vámi a touto službou, podle jejích
   podmínek a zásad ochrany soukromí. Kalamar sám nic neposílá.
 - **Odkazy** ve vašich poznámkách se otevřou v Safari nebo jiné aplikaci jen když je otevřete.
-- **Importy** (PDF, sešity z Notefulu, obrázky) se čtou ze souborů, které vyberete, a zůstávají
+- **Importy** (PDF, sešity z Notefulu a GoodNotes, obrázky) se čtou ze souborů, které vyberete, a zůstávají
   v iPadu.
 
 ## Vaše práva

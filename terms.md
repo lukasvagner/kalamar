@@ -28,8 +28,9 @@ engineering software. In exams, follow your school's rules about what apps you m
 ## Other services
 Ask AI, links, the backup folder's cloud drive and the apps you share to belong to other
 companies. Using them is under their terms, and we aren't responsible for them. Kalamar isn't
-affiliated with Apple, Anthropic, OpenAI, Google, Noteful or any other company it mentions. Their
-names are used only to say what Kalamar works with.
+affiliated with Apple, Anthropic, OpenAI, Google, Noteful, GoodNotes or any other company it
+mentions. Their names are used only to say what Kalamar works with; Noteful, GoodNotes and the
+other names are trademarks of their owners.
 
 ## Fair use
 Don't use Kalamar to break the law or other people's rights, and don't try to get around the

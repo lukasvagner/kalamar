@@ -33,7 +33,7 @@ the app sends nothing to us or to anyone else.
   then paste or send there is between you and that service, under its own terms and privacy
   policy. Kalamar itself sends nothing.
 - **Links** in your notes open in Safari or another app only when you choose to open them.
-- **Imports** (PDFs, Noteful notebooks, pictures) are read from the files you pick and kept on the
+- **Imports** (PDFs, Noteful and GoodNotes notebooks, pictures) are read from the files you pick and kept on the
   iPad.
 
 ## Your rights

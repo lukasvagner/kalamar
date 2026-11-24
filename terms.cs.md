@@ -29,8 +29,9 @@ dodržujte pravidla své školy o tom, jaké aplikace smíte používat.
 ## Jiné služby
 Zeptat se AI, odkazy, cloudové úložiště vaší složky záloh a aplikace, do kterých sdílíte, patří
 jiným společnostem. Jejich používání se řídí jejich podmínkami a my za ně neodpovídáme. Kalamar není
-spojen se společnostmi Apple, Anthropic, OpenAI, Google, Noteful ani žádnou jinou, kterou zmiňuje.
-Jejich názvy slouží jen k tomu, aby bylo jasné, s čím Kalamar spolupracuje.
+spojen se společnostmi Apple, Anthropic, OpenAI, Google, Noteful, GoodNotes ani žádnou jinou, kterou
+zmiňuje. Jejich názvy slouží jen k tomu, aby bylo jasné, s čím Kalamar spolupracuje; Noteful,
+GoodNotes a další názvy jsou ochranné známky svých vlastníků.
 
 ## Férové používání
 Nepoužívejte Kalamar k porušování zákona nebo práv druhých a nesnažte se obejít licenci App Storu
